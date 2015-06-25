@@ -1,0 +1,41 @@
+commit bf157df9bd503032c9d2bc3e72405c8cbf2bd7d4
+Author: oscull12 <oscaracosta@invermex.com>
+Date:   Wed Jun 24 14:20:01 2015 -0600
+
+    Agrega imagen
+
+commit fe770d5b9d9394d5bb509d7460a18fad4a65dc61
+Author: oscull12 <oscaracosta@invermex.com>
+Date:   Wed Jun 24 14:14:33 2015 -0600
+
+    Commit color de fondo
+
+commit aa4ed2115b6b15a3cccc5da8fdc2abc7a17f6d90
+Author: oscull12 <oscaracosta@invermex.com>
+Date:   Wed Jun 24 14:09:35 2015 -0600
+
+    Cuarto commit
+
+commit 75db698e1868f72718d52743b1519bcb0aa1fda9
+Author: oscull12 <oscaracosta@invermex.com>
+Date:   Wed Jun 24 14:05:55 2015 -0600
+
+    Tercer commit
+
+commit 0363ff11729b4011c25e3498b598c7c59d19d0a5
+Author: oscull12 <oscaracosta@invermex.com>
+Date:   Wed Jun 24 13:59:05 2015 -0600
+
+    Primer Commit
+
+commit 17d6145f9e223172dace07bfb5bcf53416bc1d36
+Author: oscull12 <oscaracosta@invermex.com>
+Date:   Wed Jun 24 13:45:55 2015 -0600
+
+    Primer Commit
+
+commit 46c042dfba1233ecf06481f5ca11c2fbe8a94197
+Author: oscull12 <oscaracosta@invermex.com>
+Date:   Wed Jun 24 13:42:19 2015 -0600
+
+    :confetti_ball: Added .gitattributes & .gitignore files
